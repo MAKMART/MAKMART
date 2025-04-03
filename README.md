@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **martinmarco813@gmail.com**
 
-⚡ Fun fact $$e^{i\pi} + 1 = 0$$
+- ⚡ Fun fact $ e^{i\pi} + 1 = 0 $
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
