@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact ![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
+![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
