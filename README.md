@@ -18,8 +18,8 @@
 - 📫 How to reach me **martinmarco813@gmail.com**
 
 - ⚡ Fun fact ![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+![](https://latex.codecogs.com/svg.latex?e%5E%7Bi%5Cpi%7D%20%2B%201%20%3D%200)
 
-![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
