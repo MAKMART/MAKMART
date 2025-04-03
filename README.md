@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **martinmarco813@gmail.com**
 
-- ⚡ Fun fact ![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?e%5E%7Bi%5Cpi%7D%20%2B%201%20%3D%200)
+- ⚡ Fun fact  ![\Large e^{i\pi} + 1 = 0](https://latex.codecogs.com/svg.latex?e%5E%7Bi%5Cpi%7D%20%2B%201%20%3D%200)
 
 
 <h3 align="left">Connect with me:</h3>
