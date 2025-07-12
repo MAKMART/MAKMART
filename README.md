@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **a voxel engine**
 
-- 🌱 I’m currently learning **Minecraft modding w/Forge**
+- 🌱 I’m currently learning **OpenGL and C++**
 
-- 👯 I’m looking to collaborate on **Minecraft java modding w/Forge**
-
-- 🤝 I’m looking for help with **Minecraft java modding w/Forge and C++**
+- 👯 I’m looking to collaborate on **graphics programming in C++**
 
 - 💬 Ask me about **C++, voxel engines, optimisations, Opengl, computer graphics**
 
