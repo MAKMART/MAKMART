@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makmart" alt="makmart" /></a> </p>
 
-- 🔭 I’m currently working on **a voxel engine**
+- 🔭 I’m currently working on **a game engine**
 
-- 🌱 I’m currently learning **OpenGL and C++**
+- 🌱 I’m currently learning **Vulkan, C++ and Rust and computer architecture**
 
-- 👯 I’m looking to collaborate on **graphics programming in C++**
+- 👯 I’m looking to collaborate on **graphics programming in C++/Rust**
 
-- 💬 Ask me about **C++, voxel engines, optimisations, Opengl, computer graphics**
+- 💬 Ask me about **C++, voxel engines, computer graphics**
 
 - 📫 How to reach me **martinmarco813@gmail.com**
 
