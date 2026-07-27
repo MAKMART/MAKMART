@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makmart" alt="makmart" /></a> </p>
 
-- 🔭 I’m currently working on **a game engine**
+- 🔭 I’m currently working on **a game engine** && **a rust project**
 
 - 🌱 I’m currently learning **Vulkan, C++ and Rust and computer architecture**
 
